@@ -1,0 +1,6 @@
+export const REGISTER_USER="REGISTER_USER";
+export const LOGIN_USER="LOGIN_USER";
+export const CURRENT_USER="CURRENT_USER";
+export const LOADING_USER="LOADING_USER";
+export const FAILED_USER="FAILED_USER";
+export const LOGOUT_USER="LOGOUT_USER";
